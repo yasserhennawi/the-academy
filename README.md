@@ -1,4 +1,4 @@
-# The Academy:
+# The Academy
 
 ## Main Goal
 
@@ -6,7 +6,7 @@ Our main goal at **The Academy** is to prepare junior-level developers for a ful
 
 ## Curriculum
 
-### Prerequisites:
+### Prerequisites
 
 - An Object-Oriented programming language (Currentling we support **Java** only material-wise) with OOP knowledge, [Java Programming - Part I](http://www.ntu.edu.sg/home/ehchua/programming/index.html) should be enough for a start for both **Java** and **OOP**.
 
