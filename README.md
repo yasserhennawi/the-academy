@@ -17,7 +17,7 @@ Our main goal at **The Academy** is to prepare junior-level developers for a ful
   2. Relational Databases (T15m)
   3. JSON Data (T37m)
   4. Relational Algebra (T38m)
-  5. SQL (As much until you feel confortable with the main CRUD operations)
+  5. SQL (As much until you feel confortable with the main CRUD operations) and intro to NoSQ
   6. Unified Modeling Language (T53m)
 - **Please note:** Above points are the least mandatory for basic junior development level, all remaining parts of the course are extremly useful so they are recommended to be covered later.
 
